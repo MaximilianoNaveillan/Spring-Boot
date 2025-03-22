@@ -14,10 +14,10 @@ ___
 
 ## Cliente y Servidores
 
-| **Clientes  <h1 style="padding:0;margin:0;">🖥️➡🖥</h1>**                                                                                                                          | **Servidores <h1 style="padding:0;margin:0;">🖥️⬅🖥</h1>**                                                                                                                                  |
-|:------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| En una arquitectura Cliente-servidor, un navegador es la mejor representación de un cliente que solicita pedidos a un seridor | Un servidor web o servidor HTTP representa al servidor que se encarga de procesar los pedidos de distintos clientes en una aplicación                                                       
-| El cliente "comprende" las respuestas provenientes del servidor, las interpreta y muestra en antalla al usuario.              | Tiene la capacidad de recibir y administrar pedidos, para determinar la respuesta a enviar.                                                                                                 
+| <div align="center"><b>Clientes</b> <h1 style="padding:0;margin:0;">🖥️➡🖥</h1> </div>                                  | <div align="center"><b>Servidores</b> <h1 style="padding:0;margin:0;">🖥️⬅🖥</h1> </div>                                            |
+|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| En una arquitectura Cliente-servidor, un navegador es la mejor representación de un cliente | Un servidor web o servidor HTTP representa al servidor que procesa pedidos de distintos clientes            |
+| El cliente "comprende" las respuestas del servidor y las muestra en pantalla                | Recibe, administra pedidos y determina la respuesta a enviar                                                |
 
 
 
